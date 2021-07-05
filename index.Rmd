@@ -21,9 +21,9 @@ output:
 options(htmltools.dir.version = FALSE)
 library(knitr)
 knitr::opts_chunk$set(cache = TRUE, warning = FALSE, message = FALSE, dpi = 180,fig.width = 4.25, fig.height = 3.5)
-library(silgelib)
+#library(silgelib)
 library(ggplot2)
-theme_set(theme_roboto())
+#theme_set(theme_roboto())
 ```
 
 layout: true
